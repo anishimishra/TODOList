@@ -1,2 +1,2 @@
 # TODOList
-using HTML, CSS and JavaScript
+created using HTML, CSS and JavaScript
